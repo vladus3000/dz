@@ -9,7 +9,7 @@ namespace Lab6
     public partial class Form1 : Form
     {
         private int step;
-        private List<int> freaks = new List<int>();
+        private List<int> freaks = new List<int>(); //это чтото !!!!!!!!!!!!!
         private List<int> Zero = new List<int>();
         private List<List<int>> data = new List<List<int>>();
 
